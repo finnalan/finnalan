@@ -1,5 +1,5 @@
-##Projects
+Projects
 
-[Octo](finnalan.github.io/octo)
+[Octo](https://finnalan.github.io/octo/)
 
 
